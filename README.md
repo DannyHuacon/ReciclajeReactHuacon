@@ -1,4 +1,17 @@
+Proyecto React Danny Huacon
 
+----------------------------------------------------------------------
+
+DEPLOY 
+
+dannyhuaconreact.netlify.app
+
+VIDEO
+
+
+
+
+---------------------------------------------------------------------------
 ### To Start This Project
 
 ### `npm i`
