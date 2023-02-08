@@ -8,6 +8,8 @@ dannyhuaconreact.netlify.app
 
 VIDEO
 
+https://www.loom.com/share/1132af1e029d46d8bf93a7ed26aa2074
+
 
 
 
